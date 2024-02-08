@@ -1,0 +1,18 @@
+.screen {
+  background-image: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.section {
+  border: 4px;
+  border-color: rgb(198, 93, 18);
+  border-style: solid;
+  margin: 8px;
+  padding: 4px;
+  border-radius: 10px;
+  background-color: rgb(240, 230, 222);
+  box-shadow: 2px 2px 16px black;
+}
